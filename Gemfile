@@ -51,3 +51,5 @@ gem 'paperclip'
 gem 'dotenv-rails', groups: :development
 
 gem 'aws-sdk', '~> 1.6'
+
+gem 'friendly_id'
